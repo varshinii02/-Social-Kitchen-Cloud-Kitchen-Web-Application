@@ -1,4 +1,4 @@
-# Topic: Social Kitchen
+# Social Kitchen
 
 Social Kitchen is a dream towards living with a balanced diet
 We serve the best homemade food available at your doorstep.
