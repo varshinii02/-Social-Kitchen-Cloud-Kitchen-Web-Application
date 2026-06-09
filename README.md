@@ -1,25 +1,73 @@
-# Social Kitchen
+# Social Kitchen: Cloud Kitchen Web Application 
 
-Social Kitchen is a dream towards living with a balanced diet
-We serve the best homemade food available at your doorstep.
-Passionate about delivering wholesome, fresh and nutritions food right at your doorsteps.
-Our Mission is to help people learn more about food, eating habits, and ways to stay healthy (not just physically but also spiritually) and ultimately get Joy out of this beautiful blessing called LIFE. Natural ingredients We use the absolute best ingredients money can buy and EVERYTHING we do is about flavor, quality, and taste that consumers love. We understand your need to stay fit and eat healthily and hence we are here with dishes that will not only help you stay fit but are tasty as well.
+## Overview
 
-## Technologies Used:
+Social Kitchen: Cloud Kitchen Web Application is a full-stack cloud kitchen web application that connects customers with home chefs. The platform enables users to browse food items, place orders, manage carts, and make online payments. It also provides separate dashboards for Admin, Chef, and Customer roles.
 
-1. Frontend: React Framework
-2. Backend: Node.js & Express
-3. Database: MongoDB
+## Features
 
+### Customer
 
-## Setup:
+* User Registration and Login
+* Browse Food Items
+* Search and Filter Food
+* Add Items to Cart
+* Place Orders
+* Online Payment Integration
+* Track Orders
+* Submit Reviews and Ratings
 
-- Clone the repository using git clone command
-- Open the project on vscode
-- Run the below commands:
-```
-npm install
-cd frontend && npm install
-cd ..
-npm run dev
-```
+### Chef
+
+* Chef Registration and Authentication
+* Manage Menu Items
+* View and Process Orders
+* Update Profile Information
+
+### Admin
+
+* Manage Users
+* Manage Food Items
+* Manage Orders
+* Review Chef Applications
+* Monitor Platform Activity
+
+## Tech Stack
+
+### Frontend
+
+* React.js
+* Redux
+* Bootstrap
+* JavaScript
+
+### Backend
+
+* Node.js
+* Express.js
+
+### Database
+
+* MongoDB
+
+### Other Tools
+
+* JWT Authentication
+* REST APIs
+* Git & GitHub
+* Postman
+
+## Project Structure
+
+backend/
+frontend/
+readme-images/
+
+## Future Enhancements
+
+* Real-time order tracking
+* Advanced analytics dashboard
+* Push notifications
+* Enhanced payment options
+* Mobile application support
+
